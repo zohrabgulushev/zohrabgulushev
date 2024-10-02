@@ -23,7 +23,7 @@ Visualization, Forecasting, Team Collaboration
 
 ## Certifications
 
-- **Data So Cool:** [Data Science with Python]([https://data.edu.az/az/verified/2024367/])
+- **Data So Cool:** [Data Science with Python](https://data.edu.az/az/verified/2024367/)
 - **Dataiku:** ML Practitioner, Core Designer
 - **Microsoft:** Career Essentials in Generative AI by Microsoft and Linkedln
 - **MyMentor Internship & Development Agency:** Data Science
