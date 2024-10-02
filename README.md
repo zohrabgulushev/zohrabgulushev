@@ -24,9 +24,9 @@ Visualization, Forecasting, Team Collaboration
 ## Certifications
 
 - **Data So Cool:** [Data Science with Python](https://data.edu.az/az/verified/2024367/)
-- **Dataiku:** ML Practitioner, Core Designer
-- **Microsoft:** Career Essentials in Generative AI by Microsoft and Linkedln
-- **MyMentor Internship & Development Agency:** Data Science
+- **Dataiku:** [ML Practitioner](https://verify.skilljar.com/c/26qniudkj952), [Core Designer](https://verify.skilljar.com/c/puuczeixzuev)
+- **Microsoft:** [Career Essentials in Generative AI by Microsoft and Linkedln](https://www.linkedin.com/learning/certificates/7dd53f607db20a04cc52c86d2b7eb7656a15f7cc1a394e86f450933a45b57e1f)
+- **MyMentor Internship & Development Agency:** [Data Science](C:\Users\FX517ZM\Desktop\Files\Сертификаты\MyMentor.jpg)
 
 ## Projects
 
