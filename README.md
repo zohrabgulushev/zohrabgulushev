@@ -1,12 +1,11 @@
-# Junior Business Analyst @ Peak Potensial | Data Science, Data Analyst, Model Validator 
+# Business Data Analyst @ Azmade | Founding Team Member @ Nexus Adv
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/zohrabgulushev)
 
 
-🔍 Junior Business Analyst with 2 years of experience. I have strong analytical skills, specializing in data, 
-automation, data driven decision making. Proficient in Python, SQL, Tableau, Power BI, Excel, Dataiku, 
-Agile 
+🔍 Business Analyst with 2 years of experience. I have strong analytical skills, specializing in data, 
+automation, data driven decision making. Proficient in Python, SQL, Tableau, Power BI, Dataiku, Agile 
 
 📍 Baku, Azerbaijan | ✉️ zohrabgulushev@gmail.com | 📞 +994 50 616 92 66
 
@@ -16,10 +15,11 @@ Agile
 - **Data Analysis & Visualization:** Dataiku, Tableau, Power BI
 - **Tech stack:** Microsoft Office programs, CRM
 - **Project Management:** Notion, Asana, Jira
-- **Methodologies:** Agile
-- **Other:** Business analysis, Communication skills, Interpersonal skills, User Persona, Data analytics, 
-Change Management, Time Management, Root Cause Analysis, Data Modeling, Data 
-Visualization, Forecasting, Team Collaboration 
+- **Methodologies:** Agile (Scrum), Lean Six Sigma
+- **Business:** Key Performance Indicators (KPI), Standard Operating Procedure (SOP)
+- **Other:** Communication skills, Interpersonal skills, User Persona, Data analytics, Change 
+Management, Time Management, Root Cause Analysis, Data Modeling, Data Visualization, 
+BPMN, UML
 
 ## Certifications
 
@@ -29,11 +29,6 @@ Visualization, Forecasting, Team Collaboration
 - **Microsoft:** [Career Essentials in Generative AI by Microsoft and Linkedln](https://www.linkedin.com/learning/certificates/7dd53f607db20a04cc52c86d2b7eb7656a15f7cc1a394e86f450933a45b57e1f)
 - **MyMentor Internship & Development Agency:** [Data Science](https://drive.google.com/file/d/19yDyqnteH5bddDKnl0DpmQY8kM2Mmqdj/view?usp=sharing)
 
-## Projects
-
-- Advanced Analytics for Churn, Fraud, and Pricing
-- SQL Data Optimization and Reporting Solutions
-- Performance Assessment System 
 
 ## Languages
 
