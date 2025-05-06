@@ -4,8 +4,9 @@
 [LinkedIn Profile](https://www.linkedin.com/in/zohrabgulushev)
 
 
-🔍 Business Analyst with 2 years of experience. I have strong analytical skills, specializing in data, 
-automation, data driven decision making. Proficient in Python, SQL, Tableau, Power BI, Dataiku, Agile 
+🔍 Business Analyst with 3+ years of experience. I have strong analytical skills, specializing in data, 
+automation, data driven decision making. Proficient in Python, SQL, Tableau, Power BI, Dataiku, 
+Excel, Project Management, and Agile methodologies. 
 
 📍 Baku, Azerbaijan | ✉️ zohrabgulushev@gmail.com | 📞 +994 50 616 92 66
 
