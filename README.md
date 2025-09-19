@@ -1,35 +1,27 @@
-# Business Data Analyst @ Azmade | Founding Team Member @ Nexus Adv
+# IT Business Analyst @ Kontakt | Product & Data Solutions | E-commerce & Fintech
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/zohrabgulushev)
 
 
-🔍 Business Analyst with 3+ years of experience. I have strong analytical skills, specializing in data, 
-automation, data driven decision making. Proficient in Python, SQL, Tableau, Power BI, Dataiku, 
-Excel, Project Management, and Agile methodologies. 
+🔍 IT Business Analyst with 3+ years of experience leading analytics, product, and process optimization projects. Successfully 
+delivered ERP/CRM projects, AI-powered solutions, and automated reporting frameworks that improved business efficiency and 
+decision-making. Experienced in stakeholder management, Agile project execution, and team mentoring. Founder of the Analyst 
+Community. Skilled in Python, SQL, Power BI, Tableau, Dataiku, Excel, and Agile methodologies.
 
 📍 Baku, Azerbaijan | ✉️ zohrabgulushev@gmail.com | 📞 +994 50 616 92 66
 
 ## Technical Skills
 
-- **Programing Languages & Tools:** Python, Oracle SQL, MS SQL
-- **Data Analysis & Visualization:** Dataiku, Tableau, Power BI
-- **Tech stack:** Microsoft Office programs, CRM
-- **Project Management:** Notion, Asana, Jira
+- **Tech Stack:** Python, Oracle SQL, Excel, Power BI, Tableau, Dataiku, MSSQL, GitHub, Postman, Swagger, CRM.
+- **Project Management:** Jira, Confluence, Notion, Asana.
+- **Methodologies:** Waterfall, Agile, Scrum, Kanban, Lean Six Sigma.
+- **Process Modelling:** Lucidchart, Miro, Bpmn.io, UML
 - **Methodologies:** Agile (Scrum), Lean Six Sigma
-- **Business:** Key Performance Indicators (KPI), Standard Operating Procedure (SOP)
-- **Other:** Communication skills, Interpersonal skills, User Persona, Data analytics, Change 
-Management, Time Management, Root Cause Analysis, Data Modeling, Data Visualization, 
-BPMN, UML
-
-## Certifications
-
-- **Data So Cool:** [Data Science with Python](https://data.edu.az/az/verified/2024367/)
-- **DataCamp:** [Data-Driven Decision Making for Business](https://www.datacamp.com/statement-of-accomplishment/course/78aab07a0c7d578f852b5c4f1f5e4cc48c3a2e39?raw=1) 
-- **Dataiku:** [ML Practitioner](https://verify.skilljar.com/c/26qniudkj952), [Core Designer](https://verify.skilljar.com/c/puuczeixzuev)
-- **Microsoft:** [Career Essentials in Generative AI by Microsoft and Linkedln](https://www.linkedin.com/learning/certificates/7dd53f607db20a04cc52c86d2b7eb7656a15f7cc1a394e86f450933a45b57e1f)
-- **MyMentor Internship & Development Agency:** [Data Science](https://drive.google.com/file/d/19yDyqnteH5bddDKnl0DpmQY8kM2Mmqdj/view?usp=sharing)
-
+- **Business:** KPI, OKR, Standard Operating Procedure (SOP), Data analytics, Data Modeling,
+ Data Visualization, Root Cause Analysis, Functional & Non-Functional Requirements
+- **Other:** Communication skills, Interpersonal skills, User Person, Change 
+Management, Time Management
 
 ## Languages
 
