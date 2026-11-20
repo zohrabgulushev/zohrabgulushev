@@ -1,32 +1,27 @@
-# IT Business Analyst @ Kontakt | Product & Data Solutions | E-commerce & Fintech
+# Chapter Lead - Product Management & IT Business Analysis | Agile Product Delivery | Data-Driven Decision Making | Vibecoding & AI Automation | Fintech & E-commerce
 
 
 [LinkedIn Profile](https://www.linkedin.com/in/zohrabgulushev)
 
 
-🔍 IT Business Analyst with 3+ years of experience leading analytics, product, and process optimization projects. Successfully 
-delivered ERP/CRM projects, AI-powered solutions, and automated reporting frameworks that improved business efficiency and 
-decision-making. Experienced in stakeholder management, Agile project execution, and team mentoring. Founder of the Analyst 
-Community. Skilled in Python, SQL, Power BI, Tableau, Dataiku, Excel, and Agile methodologies.
+🔍 Product Management & IT Business Analyst Chapter Lead with 4+ years of experience in Fintech, Digital Payments, E-commerce
+and B2B. Translates complex business requirements into scalable digital solutions using BPMN, UML and REST/SOAP API design
+across full SDLC. Reduced payment processing costs by 30% across a 4-product fintech portfolio, led remediation of 100+
+Central Bank audit findings to achieve full regulatory compliance and PCI DSS certification and drove 20%+ conversion and
+revenue gains across multiple digital transformation initiatives. Actively applies AI-assisted tools to compress delivery cycles
+from weeks to hours.
 
-📍 Baku, Azerbaijan | ✉️ zohrabgulushev@gmail.com | 📞 +994 50 616 92 66
+📍 Italy | ✉️ zohrabgulushev@gmail.com | 📞 +994 50 616 92 66
 
 ## Technical Skills
 
-- **Tech Stack:** Python, Oracle SQL, Excel, Power BI, Tableau, Dataiku, MSSQL, GitHub, Postman, Swagger, CRM.
-- **Project Management:** Jira, Confluence, Notion, Asana.
-- **Methodologies:** Waterfall, Agile, Scrum, Kanban, Lean Six Sigma.
-- **Process Modelling:** Lucidchart, Miro, Bpmn.io, UML
-- **Methodologies:** Agile (Scrum), Lean Six Sigma
-- **Business:** KPI, OKR, Standard Operating Procedure (SOP), Data analytics, Data Modeling,
- Data Visualization, Root Cause Analysis, Functional & Non-Functional Requirements
-- **Other:** Communication skills, Interpersonal skills, User Person, Change 
-Management, Time Management
+- **Systems Analysis & Design:** Microservices Architecture, API Design (REST/SOAP), ERD (3NF), JSON/XML Schema.
+- **Requirements Engineering:** Jira, Confluence, Notion, Asana.
+- **Process Modelling:** BPMN 2.0, UML (Sequence, Activity, State), AS-IS & TO-BE Mapping.
+- **Data Expertise:** SQL, Python, ETL pipelines, Data Mart Design, Power BI/Tableau
+- **Business:** KPI, OKR, Standard Operating Procedure (SOP), Data analytics, Data Modeling, Data Visualization, Root Cause Analysis, Functional & Non-Functional Requirements
+- **Product & Project Delivery:** Agile, Roadmap Planning, Stakeholder Management, ROI Analysis, RCA, Vibecoding / AI tooling.
 
 ## Languages
 
-- Azerbaijani - Native
-- Russian - Advanced
-- Turkish - Native
-- English - Intermediate
-- Spanish - Intermediate  
+- Azerbaijani, Russian (Native) | English (Upper-Intermediate - Technical/Business) | Turkish, Spanish (Beginner) 
